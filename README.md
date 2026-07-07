@@ -82,7 +82,7 @@ Hello from Docker Container 🚀
 
 ### Docker Build
 
-![Docker Build](screenshots/Screenshot%202026-07-07%20114754.png)
+![Docker Build](screenshots/Screenshot%202026-07-07%20114847.png)
 
 ### Docker Images
 
@@ -94,7 +94,7 @@ Hello from Docker Container 🚀
 
 ### Browser Output
 
-![Browser Output](screenshots/Screenshot%202026-07-07%20at%2011-44-05%20marisgill-commits_docker-node-app.png)
+![Browser Output](screenshots/Screenshot%202026-07-07%20114754.png)
 
 ## 🎯 Learning Outcomes
 
