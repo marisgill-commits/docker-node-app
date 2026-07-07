@@ -112,6 +112,7 @@ Through this project, I learned how to:
 ## 👨‍💻 Author
 
 **Maris Gill**
+
 **Aspiring Cloud & DevOps Engineer**
 
 - **GitHub Repository:** [docker-node-app](https://github.com/marisgill-commits/docker-node-app)
