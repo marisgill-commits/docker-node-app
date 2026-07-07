@@ -86,7 +86,7 @@ Hello from Docker Container 🚀
 
 ### Docker Images
 
-![Docker Images](screenshots/Screenshot%202026-07-07%20114824.png)
+![Docker Images](screenshots/Screenshot%2026-07-07%120510.png)
 
 ### Running Container
 
