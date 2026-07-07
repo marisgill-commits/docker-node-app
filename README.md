@@ -78,19 +78,23 @@ Expected output:
 Hello from Docker Container 🚀
 ```
 
----
+## 📷 Screenshots
 
-## 📷 Project Output
+### Docker Build
 
-After running the container successfully, the application displays the following message in the browser:
+![Docker Build](screenshots/Screenshot%202026-07-07%20114754.png)
 
-```text
-Hello from Docker Container 🚀
-```
+### Docker Images
 
-*(You can add a screenshot of the browser output here.)*
+![Docker Images](screenshots/Screenshot%202026-07-07%20114824.png)
 
----
+### Running Container
+
+![Running Container](screenshots/Screenshot%202026-07-07%20114847.png)
+
+### Browser Output
+
+![Browser Output](screenshots/Screenshot%202026-07-07%20at%2011-44-05%20marisgill-commits_docker-node-app.png)
 
 ## 🎯 Learning Outcomes
 
