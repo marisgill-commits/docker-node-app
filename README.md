@@ -86,7 +86,7 @@ Hello from Docker Container 🚀
 
 ### Docker Images
 
-![Docker Images](screenshots/Screenshot%2026-07-07%120510.png)
+![Docker Images](screenshots/Screenshot%202026-07-07%20120510.png)
 
 ### Running Container
 
@@ -112,10 +112,9 @@ Through this project, I learned how to:
 ## 👨‍💻 Author
 
 **Maris Gill**
+**Aspiring Cloud & DevOps Engineer**
 
-Aspiring Cloud & DevOps Engineer
-
-* GitHub: https://github.com/marisgill-commits/docker-node-app.git
-* LinkedIn: www.linkedin.com/in/maris-gill-207039390
+- **GitHub Repository:** [docker-node-app](https://github.com/marisgill-commits/docker-node-app)
+- **LinkedIn:** [Maris Gill](https://www.linkedin.com/in/maris-gill-207039390/)
 
 ---
